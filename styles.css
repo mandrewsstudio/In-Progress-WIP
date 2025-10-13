@@ -384,7 +384,7 @@ video {
     grid-template-columns: repeat(2, 1fr);
     gap: 0.8rem;
     margin-top: 0.4rem;
-    margin-bottom: 0;
+    margin-bottom: 0.4rem;
     height: 100%;
 }
 
@@ -393,7 +393,7 @@ video {
     grid-template-columns: repeat(4, 1fr);
     gap: 0.8rem;
     margin-top: 0.8rem;
-    margin-bottom: 0;
+    margin-bottom: 0.4rem;
 }
 
 .work-grid-top,
@@ -908,3 +908,5 @@ footer .text-center {
         border-radius: 10px 10px 0 0;
     }
 }
+
+
