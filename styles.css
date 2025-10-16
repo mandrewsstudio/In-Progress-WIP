@@ -222,7 +222,6 @@ footer a {
 
 nav a {
     margin: 0 0.2rem;
-    font-size: 0.9em;
     border-bottom: none;
 }
 
@@ -860,7 +859,6 @@ footer .text-center {
 
     nav a {
         padding: 0 0.4rem 0 0;
-        font-size: 0.8rem;
     }
 
     .article p,
